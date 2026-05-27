@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-## About Me
 
 I am **Dr. Sankara Nayaki K**, Assistant Professor at **Unitedworld Institute of Technology, Karnavati University**, with expertise in Artificial Intelligence, Machine Learning, and Data Analytics.
 
